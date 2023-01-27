@@ -29,7 +29,13 @@ print("{:.2f}".format(dist))
 
 
 ### OUTPUT:
-![output](./Screenshot%20(36).png)
+![Uploading Screenshot (11).png…]()
+
+
+
+
+
+
 
 
 ### RESULT:
